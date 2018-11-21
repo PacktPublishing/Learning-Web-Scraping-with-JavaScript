@@ -1,8 +1,10 @@
 # Learning-Web-Scraping-with-JavaScript
 This is the code repository for [Learning Web Scraping with JavaScript [Video]](https://www.packtpub.com/web-development/learning-web-scraping-javascript-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-	This video is the ultimate guide to using the latest features of JavaScript and Node.js to scrape data from websites. In the early chapters, you'll see how to extract data from static web pages. After covering the basics, you'll get hands-on practice building more sophisticated scripts. You'll determine when and how to scrape data from a JavaScript-dependent website using JavaScript scraping libraries. You'll find out how to automate these actions with JavaScript packages such as Cheerio and CasperJS.
+This video is the ultimate guide to using the latest features of JavaScript and Node.js to scrape data from websites. In the early chapters, you'll see how to extract data from static web pages. After covering the basics, you'll get hands-on practice building more sophisticated scripts. You'll determine when and how to scrape data from a JavaScript-dependent website using JavaScript scraping libraries. You'll find out how to automate these actions with JavaScript packages such as Cheerio and CasperJS.
+	
 By the end of the book, you will have explored testing websites with scrapers, remote scraping, best practices, working with images, and many other relevant topics.
+
 The code bundle for this video course is available at - https://github.com/PacktPublishing/Learning-Web-Scraping-with-JavaScript/
 
 <H2>What You Will Learn</H2>
