@@ -1,0 +1,25 @@
+* {
+ font-family: Arial;
+}
+div{
+    width: 350px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin:20;
+    padding: 10
+}
+button{
+    margin: 2;
+    padding: 10;
+    font-size: 12;
+    border-radius: 15px;
+    border-color:aquamarine;
+    background-color:aquamarine;
+}
+.bigLabel{
+    font-size: 18;
+    margin:8px
+} 
+.smallLabel{
+    font-size: 12;
+}
